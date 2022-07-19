@@ -1,0 +1,24 @@
+{
+  "name": "npm_login_test",
+  "version": "1.0.0",
+  "description": "npm_login_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugandhar03/NPM_Package.git"
+  },
+  "keywords": [
+    "NPM",
+    "LOGIN",
+    "TEST"
+  ],
+  "author": "Yugandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yugandhar03/NPM_Package/issues"
+  },
+  "homepage": "https://github.com/yugandhar03/NPM_Package#readme"
+}
